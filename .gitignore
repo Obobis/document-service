@@ -5,5 +5,5 @@ __pycache__/
 .env
 
 *.sh
-
+.vscode
 .pytest_cache

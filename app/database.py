@@ -1,4 +1,4 @@
-import motor.motor_asyncio
+#import motor.motor_asyncio
 import pymongo
 from app.config import Config
 
